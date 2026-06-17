@@ -1,0 +1,78 @@
+A0A0D2X737,Crithmum maritimum
+Q44176,Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6)
+Q56259,Thiobacillus denitrificans (strain ATCC 25259)
+S4TAB7,Chenopodium album
+S395C,Synechococcus sp. PCC 6301 RbcL mutant S395C
+v186I,Synechococcus sp. PCC 6301 RbcL mutant V186I
+W0RYV8,Porphyridium purpureum
+X5HXR0,Echeveria elegans
+X5I0G8,Teucrium heterophyllum
+X5I0H3,Agave victoriae-reginae
+X5I0X2,Pallenis maritima
+X5I0Y3,Platycerium superbum
+X5IB65,Cycas panzhihuaensis
+X5IB66,Sideritis cretica
+X5IB74,Limonium stenophyllum
+X5IB77,Atrichum undulatum
+X5ICR4,Iris douglasiana
+X5ICR6,Drosera venusta
+X5ICS6,Limonium latebracteatum
+X5ICS9,Pteridium aquilinum
+A0A0G4AJP0,Metasequoia glyptostroboides
+A0A1Y0AEJ9,Dichanthium sericeum
+A0A2C7YTN9,Urochloa mosambicensis
+A0A3B6UEX0,Skeletonema marinoi
+A0A7M1YAL7,Amaranthus hybridus
+A0A068EM41,Limonium virgatum
+A0A089VQA3,Thalassiosira weissflogii
+A0A193D7A7,Steinchisma laxum
+A0A384E0M2,Thalassiosira hyalina
+A1E9T2,Sorghum bicolor
+A2VA54,Carpobrotus edulis
+A7UM67,Griffithsia monilis
+A8DP67,Thalassiosira antarctica
+A9XI12,Fragilariopsis cylindrus
+E7BWI1,Thalassiosira oceanica
+E9N7B0,Flaveria floridana
+E9PAI6,Phaeodactylum tricornutum
+F5GVU2,Chaetoceros muellerii
+F5GW56,Bellerochea horologicalis
+F137I,Synechococcus sp. PCC 6301 RbcL mutant F137I
+H6T986,Portulaca oleracea
+I2FL38,Paspalum distichum
+I462V,Synechococcus sp. PCC 6301 RbcL mutant I462V
+K4ES21,Chaetoceros calcitrans
+E138V,Methanococcoides burtonii Mutant E138V
+K332E,Methanococcoides burtonii Mutant K332E
+O03042,Arabidopsis thaliana
+O93627,Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)
+P0C512,Oryza sativa subsp. japonica
+P00874,Zea mays
+P00875,Spinacia oleracea
+P00876,Nicotiana tabacum
+P00877,Chlamydomonas reinhardtii
+P00878,Euglena gracilis
+P00880,Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1)
+P04718,Rhodospirillum rubrum
+P06292,Marchantia polymorpha
+P11383,Triticum aestivum
+P14959,Olisthodiscus luteus
+P19161,Flaveria bidentis
+P19162,Flaveria pringlei
+P19163,Neurachne munroi
+P22849,Allochromatium vinosum
+P23755,Galdieria sulphuraria
+P24673,Cylindrotheca sp. (strain N1)
+P27997,Rhodobacter sphaeroides
+P28405,Drosera capensis
+P28451,Sarracenia flava
+P37393,Cyanidium caldarium
+P45738,Helianthus annuus
+P54205,Synechocystis sp. (strain PCC 6803 / Kazusa)
+Q5K3D9,Dactylis glomerata
+Q6EW71,Nymphaea alba
+Q6N0W9,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)
+Q8DIS5,Thermosynechococcus elongatus (strain BP-1)
+Q9BA63,Trachycarpus fortunei
+Q12TQ0,Methanococcoides burtonii (strain DSM 6242 / NBRC 107633 / OCM 468 / ACE-M)
+Q05798,Ceratophyllum demersum
